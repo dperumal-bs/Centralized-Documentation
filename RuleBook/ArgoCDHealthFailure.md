@@ -8,4 +8,4 @@ Information:
 -Prune Sync the application and try again
 
 
-[Back](Centralized-Documentation/README.md)
+[Back](Centralized-Documentation)

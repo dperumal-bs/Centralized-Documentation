@@ -15,4 +15,4 @@ PagerDuty Service: gen3 - private environments, gen3 - uat
 Information:
 - Refer: OC-1248 - CPUThrottlingHigh info (grafana grafana monitoring/kube-prometheus-stack-prometheus) in gen3-private environments
 
-[Back](README.md)
+[Back](/README.md)
